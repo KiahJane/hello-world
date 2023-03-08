@@ -1,0 +1,6 @@
+1. ide na web
+	react
+	https://primereact.org/chart/#horizontal
+	
+	https://create-react-app.dev/docs/getting-started
+	
